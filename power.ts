@@ -15,6 +15,8 @@ const enum FullPowerSource {
     P1 = DAL.MICROBIT_ID_IO_P1, // 101
     //% block="pin P2"
     P2 = DAL.MICROBIT_ID_IO_P2 // 102
+    //% block="Serial RX"
+    P13 = DAL.MICROBIT_ID_IO_P13
 }
 
 
